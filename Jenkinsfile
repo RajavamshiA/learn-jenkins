@@ -8,7 +8,7 @@ pipeline {
                 sh 'echo This is Build'
             }
         }
-        stage('Test super'){
+        stage('Test'){
             steps{
                 sh 'echo This is Test'
             }
