@@ -45,7 +45,7 @@ pipeline {
         }
         stage('Approval'){
             input{
-                 message "Should we continue?"
+                message "Should we continue?"
                 ok "Yes, we should."
                 submitter "alice,bob"
                 parameters {
