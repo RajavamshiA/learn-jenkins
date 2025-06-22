@@ -1,2 +1,2 @@
 Jenkins can integrate with a vast ecosystem of tools across the software development lifecycle. This allows seamless automation of building, testing, deploying, monitoring, and collaboration.
-Git, GitHub, GitLab, Bitbucket, Maven, Gradle, Docker, Kubernetes, Ansible, Terraform, Helm, Chef, Puppet, AWS, Azure, GCP, SonarQube, Nexus, Artifactory, Vault, Prometheus, Grafana, ELK, Jira, Slack, Teams.
+Git, GitHub, GitLab, Bitbucket, Maven, Gradle, Docker, Kubernetes, Ansible, Terraform, Helm, Chef, Puppet, AWS, Azure, GCP, SonarQube, Nexus, Artifactory, Vault, Prometheus, Grafana, ELK, Jira, Slack, Teams
